@@ -1,0 +1,11 @@
+body {
+  background: pink;
+}
+
+.search_form {
+  background: lightblue;
+  padding: 1rem;
+}
+.search_from--input{
+  background: red;
+}
