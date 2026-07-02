@@ -3,9 +3,9 @@ body {
 }
 
 .search_form {
-  background: rgb(239, 70, 14);
+  background: rgb(37, 34, 228);
   padding: 1rem;
 }
-.search_from--input{
+.search_from--input {
   background: rgb(32, 232, 86);
 }
