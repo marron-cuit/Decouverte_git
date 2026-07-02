@@ -3,7 +3,7 @@ body {
 }
 
 .search_form {
-  background: lightblue;
+  background: rgb(239, 70, 14);
   padding: 1rem;
 }
 .search_from--input{
